@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as Hero } from './Hero';
+export { default as LogoTicker } from './LogoTicker';
+export { default as Product } from './ProductShowcase';
+export { default as Value } from './Value';
+export { default as Pricing } from './Pricing';
+export { default as Testimonial } from './Testimonial';
+export { default as CallToAction } from './CallToAction';
+export { default as Footer } from './Footer';
